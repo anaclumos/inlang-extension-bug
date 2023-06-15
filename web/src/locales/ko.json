@@ -1,0 +1,11 @@
+{
+  "Welcome to RedwoodJS": "RedwoodJS에 오신 것을 환영합니다",
+  "info": "이것은 당신의 한국어 번역 파일입니다",
+  "see": "https://www.i18next.com/translation-function/essentials",
+  "HomePage": {
+    "title": "홈페이지",
+    "info": "나를 찾아보세요",
+    "route": "내 기본 경로는 다음과 같이 명명되었습니다",
+    "link": "나에게 링크하세요"
+  }
+}
